@@ -65,7 +65,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('C:/Users/marjo/Documents/DevProject/portfolio_update_v1/images/Ghent.jpg') no-repeat top center ;
+  background: url("images\Ghent.jpg") no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
